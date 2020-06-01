@@ -47,5 +47,12 @@ public class RediffHomePagePF {
 //			return driver.findElement(searchButton);
 			return searchButton;
 		}
+		
+		//New code added by first develop person 
+				public WebElement searchButton3() {
+//					return driver.findElement(searchButton);
+					return searchButton;
+				}
+
 
 }
