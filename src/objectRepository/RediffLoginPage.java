@@ -32,4 +32,9 @@ public class RediffLoginPage {
 	public WebElement home() {
 		return driver.findElement(Home);
 	}
+	
+	//New code added by second person
+	public WebElement home1() {
+		return driver.findElement(Home);
+	}
 }
